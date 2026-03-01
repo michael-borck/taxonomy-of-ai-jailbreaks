@@ -1,3 +1,7 @@
+<!-- BADGES:START -->
+[![ai-ethics](https://img.shields.io/badge/-ai--ethics-blue?style=flat-square)](https://github.com/topics/ai-ethics) [![ai-safety](https://img.shields.io/badge/-ai--safety-blue?style=flat-square)](https://github.com/topics/ai-safety) [![deep-learning](https://img.shields.io/badge/-deep--learning-blue?style=flat-square)](https://github.com/topics/deep-learning) [![generative-ai](https://img.shields.io/badge/-generative--ai-blue?style=flat-square)](https://github.com/topics/generative-ai) [![jailbreak](https://img.shields.io/badge/-jailbreak-blue?style=flat-square)](https://github.com/topics/jailbreak) [![machine-learning](https://img.shields.io/badge/-machine--learning-ff6f00?style=flat-square)](https://github.com/topics/machine-learning) [![natural-language-processing](https://img.shields.io/badge/-natural--language--processing-blue?style=flat-square)](https://github.com/topics/natural-language-processing) [![taxonomy](https://img.shields.io/badge/-taxonomy-blue?style=flat-square)](https://github.com/topics/taxonomy) [![text-analysis](https://img.shields.io/badge/-text--analysis-blue?style=flat-square)](https://github.com/topics/text-analysis) [![topic-modeling](https://img.shields.io/badge/-topic--modeling-blue?style=flat-square)](https://github.com/topics/topic-modeling)
+<!-- BADGES:END -->
+
 Certainly! Here's a structured README for your GitHub repository, adapted for the paper "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics".
 
 ```markdown
